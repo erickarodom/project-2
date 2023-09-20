@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.scores, .subtitle p{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.images-ctnr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
