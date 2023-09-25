@@ -10,14 +10,19 @@
     <div class="title-ctnr">
         <h1 id="site-title" class="site-title"> Let's Play <br> Rock, Paper, Scissors</h1>
     </div>
-    <div class="subtitle"><p>Current Score:</p></div>
-    <div class="scoreboard">
+    <div class="scoreboard-ctnr">
+        <div class="subtitle"><h2>Current Score:</h2></div>
         <div id="scores" class="scores"><span>(User)</span><span id="user-score"></span><span>-</span><span id="computer-score"></span><span>(Computer)</span></div>
+        <div class="choices-ctnr">
+            <div id="user-choice" class="user-choice" ></div>
+            <div id="computer-choice" class="computer-choice"></div>
+            <div id="winner" class="winner"></div>
+        </div>
     </div>
     <div class="images-ctnr">
-        <div id="rock" class="rock"><img style="height: 170px;  width: 170px;" src="/assets/images/noun-rocks-3575781.png" alt=""></div>
-        <div id="paper" class="paper"><img style="height: 150px;  width: 150px;" src="/assets/images/noun-paper-1761044.png" alt=""></div>
-        <div id="scissors" class="scissors"><img style="height: 150px;  width: 150px;" src="/assets/images/noun-scissors-2331419.png" alt=""></div>
+        <div id="rock" class="rock"><img style="height: 170px;  width: 170px;" src="/assets/images/rocks.png" alt="" onclick="userChoice1()" ></div>
+        <div id="paper" class="paper"><img style="height: 150px;  width: 150px;" src="/assets/images/paper.png"  alt="" onclick="userChoice2()" ></div>
+        <div id="scissors" class="scissors"><img style="height: 150px;  width: 150px;" src="/assets/images/scissors.png" alt="" onclick="userChoice3()" ></div>
     </div>
 
 

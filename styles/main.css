@@ -8,13 +8,22 @@ body{
     text-align: center;
 }
 
-.scores, .subtitle p{
+.scores, .subtitle{
     font-size: 1.2em;
     font-weight: bold;
+}
+
+#user-score, #computer-score{
+    padding: 0 5px;
 }
 
 .images-ctnr{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.choices-ctnr div{
+    padding-top: 10px;
+    font-size: 1.2em;
 }
