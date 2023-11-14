@@ -22,8 +22,8 @@ Here is an example of a working [RPS App](https://software-development-mastermin
   - whether they have won or lost that game.
 3. The user can play as many times as they want.
 4. A score of total wins and losses will be displayed.
-5. Application is publicly available on GitHub [pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)  explained.
-6. [My Applications](https://erickarodom.github.io/project-two/)
+5. Application is publicly available on GitHub [pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) (explained).
+6. [My Live Application](https://erickarodom.github.io/project-two/)
 
 ## License
 Distributed under the MIT License.
