@@ -34,7 +34,7 @@ Distributed under the MIT License.
 
 [//]: # (Just testing writing comments?)
 
-[pages]: <https://pages.github.com>
+[pages]: <(https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)>
 [linkedin-shield]: <https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555>
 [linkedin-url]: https://linkedin.com/in/ericka-odom
 
