@@ -22,7 +22,7 @@ Here is an example of a working [RPS App](https://software-development-mastermin
   - whether they have won or lost that game.
 3. The user can play as many times as they want.
 4. A score of total wins and losses will be displayed.
-5. Application is publicly available on GitHub [pages]
+5. Application is publicly available on GitHub [pages]: <https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site>
 
 ## License
 Distributed under the MIT License.
@@ -34,7 +34,7 @@ Distributed under the MIT License.
 
 [//]: # (Just testing writing comments?)
 
-[pages]: <https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site>
+
 [linkedin-shield]: <https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555>
 [linkedin-url]: https://linkedin.com/in/ericka-odom
 
