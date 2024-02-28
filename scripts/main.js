@@ -104,7 +104,7 @@ function userChoice2() {
 
 function userChoice3() {
     const computerChoice = Math.floor(Math.random() * 3);
-    console.log(computerChoice);
+   
 
     document.getElementById('user-choice').innerHTML = `${scissors.userMessage}`;
 
